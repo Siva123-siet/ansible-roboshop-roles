@@ -21,7 +21,7 @@
 
 - name: Install dependencies
   tags:
-   - deployment
+   - siva
   community.general.npm:
   path: /app
    
