@@ -33,7 +33,7 @@
 
   - name: deployment setup
     tags:
-     - deployment
+     - siva
     include_role:
      name: common
      tasks_from: deployment
