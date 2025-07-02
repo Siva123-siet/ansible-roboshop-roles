@@ -5,3 +5,5 @@
   connection: local
   roles:
   - "{{ component }}"
+
+  #info
